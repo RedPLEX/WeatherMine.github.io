@@ -1,0 +1,13 @@
+/**
+ * WWFlakes by Angela Lane (freeware, commercial use allowed): http://www.fontspace.com/windwalker64/wwflakes
+ * Author's original site (1999): http://web.archive.org/web/20010211105631/members.nbci.com/windwalker64/index2.html
+*/
+
+@font-face {
+ font-family: 'WWFlakesRegular';
+ src: url('clientscript/fonts/wwflakes-webfont.eot');
+ src: local('O'), url('clientscript/fonts/wwflakes-webfont.woff') format('woff'), url('clientscript/fonts/wwflakes-webfont.ttf') format('truetype');
+ /* src: local('WWFlakes'), local('WWFlakes'), url('clientscript/fonts/wwflakes-webfont.woff') format('woff'), url('clientscript/fonts/wwflakes-webfont.ttf') format('truetype'); */
+ font-weight: normal;
+ font-style: normal;
+}
